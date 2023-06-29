@@ -28,7 +28,7 @@ public class problema_numeros_pares {
 
 			if (vect[i] % 2 == 0) {
 				System.out.print(" " + vect[i]);
-				sum += 1;
+				sum++;
 			}
 		}
 		System.out.println();
