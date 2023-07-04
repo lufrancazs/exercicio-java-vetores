@@ -22,7 +22,7 @@ public class problema_soma_vetor {
 		
 		double sum = 0;
 		
-		System.out.print("VALROES = ");
+		System.out.print("VALORES = ");
 		
 		for(int i = 0; i < vect.length; i++) {
 			System.out.print(" " + vect[i]);
